@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dinesh Rajendran</h1>
 <h3 align="center">Full Stack Developer from Chennai, India</h3>
 
-- 🔭 I’m currently working on **Expense Tracker**
+-   🔭 I’m currently working on **Expense Tracker**
 
-- 🌱 I’m currently learning **ReactJS, Redux, Node, MongoDB**
+-   🌱 I’m currently learning **ReactJS, Redux, Node, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dineshsr?tab=repositories](https://github.com/dineshsr?tab=repositories)
+-   👨‍💻 All of my projects are available at [https://github.com/dineshsr?tab=repositories](https://github.com/dineshsr?tab=repositories)
 
-- 📫 How to reach me **dineshsr@zohomail.com**
+-   📫 How to reach me **dineshsr@zohomail.com**
 
 <p align="left"> &nbsp; <a href="https://twitter.com/dinesh_sr" target="blank"><img src="https://img.shields.io/twitter/follow/dinesh_sr?logo=twitter&style=for-the-badge" alt="dinesh_sr" /></a> </p>
 
@@ -29,9 +29,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dineshsr&theme=darkhub&title=Commit,Issues,Repositories,PullRequest" alt="dineshsr" /></a> </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dineshsr&show_icons=true&locale=en&layout=compact" alt="dineshsr" /></p>
+<p>&nbsp;<img align='right' style='margin-top:-131px;margin-left:-90px' src="https://github-readme-stats.vercel.app/api/top-langs?username=dineshsr&show_icons=true&locale=en&layout=compact" alt="dineshsr" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dineshsr&show_icons=true&theme=radical&locale=en" alt="dineshsr" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=dineshsr&show_icons=true&theme=radical&locale=en" alt="dineshsr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshsr&" alt="dineshsr" /></p>
-
+<p>&nbsp;<img align='right' style='margin-top:-211px' src="https://github-readme-streak-stats.herokuapp.com/?user=dineshsr&" alt="dineshsr" /></p>
