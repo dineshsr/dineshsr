@@ -63,11 +63,11 @@
 
 <p>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dineshsr&title=Commit,Issues,Repositories&margin-w=15" alt="dineshsr" /></a>
-
 <img src="https://github-readme-stats.vercel.app/api?username=dineshsr&show_icons=true&count_private=true&locale=en" alt="dineshsr" />
 
 <img style='margin-left:5px' src="https://github-readme-streak-stats.herokuapp.com/?user=dineshsr" alt="dineshsr" />
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dineshsr&title=Commit,Issues,Repositories&margin-w=15" alt="dineshsr" /></a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dineshsr&show_icons=true&locale=en&layout=compact" alt="dineshsr" />
 
