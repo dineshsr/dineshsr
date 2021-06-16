@@ -2,9 +2,9 @@
 
 <h3 align="center">Full Stack Developer from Chennai, India</h3>
 
--   🔭 I’m currently working on **Expense Tracker**
+-   🔭 I’m currently working on **Personal Password Manager**
 
--   🌱 I’m currently learning **ReactJS, Redux, Node, MongoDB**
+-   🌱 I’m currently learning **Python, Django, React, MongoDB**
 
 -   👨‍💻 All of my projects are available at [https://github.com/dineshsr?tab=repositories](https://github.com/dineshsr?tab=repositories)
 
