@@ -30,7 +30,7 @@
 </p>
 </p>
 
-<p align="left"> &nbsp; <a href="https://twitter.com/dinesh_sr" target="blank"><img src="https://img.shields.io/twitter/follow/dinesh_sr?logo=twitter&style=for-the-badge" alt="DineshSR_" /></a> </p>
+<p align="left"> &nbsp; <a href="https://twitter.com/DineshSR_" target="blank"><img src="https://img.shields.io/twitter/follow/DineshSR_?logo=twitter&style=for-the-badge" alt="DineshSR_" /></a> </p>
 
 <br/>
 
